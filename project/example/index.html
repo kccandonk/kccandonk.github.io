@@ -11,6 +11,7 @@
   
 
   
+    <meta name="google-site-verification" content="A-mp9O143mlAYAamD8cmR_6CK_5EOC_LYqhDitpmnJM" />
 
   
   
@@ -256,6 +257,45 @@
 
   
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-190608046-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-190608046-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -765,7 +805,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://kccandonk.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu35b9fe5f953809753e13e1905d045997_202385_270x270_fill_q75_lanczos_center.jpg" alt="Kate Candon"></a>
+      <a href="https://kccandonk.github.io/"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_hu35b9fe5f953809753e13e1905d045997_202385_270x270_fill_q75_lanczos_center.jpg" alt="Kate Candon"></a>
     
 
     <div class="media-body">
