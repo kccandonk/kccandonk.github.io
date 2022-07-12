@@ -1,7 +1,0 @@
-User-agent: *
-
-<<<<<<< HEAD
-Sitemap: https://kccandonk.github.io/sitemap.xml
-=======
-Sitemap: /sitemap.xml
->>>>>>> 803ec1dad153ee6881458aaed23d5482ef7eaa75
