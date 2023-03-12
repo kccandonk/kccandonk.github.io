@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peer-Reviewed Workshop Papers | Kate Candon</title>
-    <link>https://kccandonk.github.io/workshop_papers/</link>
-      <atom:link href="https://kccandonk.github.io/workshop_papers/index.xml" rel="self" type="application/rss+xml" />
+    <link>/workshop_papers/</link>
+      <atom:link href="/workshop_papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Peer-Reviewed Workshop Papers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://kccandonk.github.io/images/icon_huab8b82a8bafc53e5b23e1cf6a1ca0730_7396_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_huab8b82a8bafc53e5b23e1cf6a1ca0730_7396_512x512_fill_lanczos_center_2.png</url>
       <title>Peer-Reviewed Workshop Papers</title>
-      <link>https://kccandonk.github.io/workshop_papers/</link>
+      <link>/workshop_papers/</link>
     </image>
     
   </channel>

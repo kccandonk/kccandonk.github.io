@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huab8b82a8bafc53e5b23e1cf6a1ca0730_7396_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,22 +13,43 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Verbally Soliciting Human Feedback in Continuous Human-Robot Collaboration: Effects of the Framing and Timing of Reminders</title>
+      <link>/publication/solicit-hri22/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/solicit-hri22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Annotation Methods for Aligning Implicit and Explicit Human Feedback in Human-Robot Interaction</title>
+      <link>/publication/photorl-hri22/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/photorl-hri22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Policy Shaping for Human-Robot Collaboration with Transparent Matrix Overlays</title>
+      <link>/publication/chefbot-hri22/</link>
+      <pubDate>Fri, 10 Mar 2023 23:34:30 -0400</pubDate>
+      <guid>/publication/chefbot-hri22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptions of the Helpfulness of Unexpected Agent Assistance</title>
+      <link>/publication/perceptions-hai22/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/perceptions-hai22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging the Gap: Unifying the Training and Evaluation of Neural Network Binary Classifiers</title>
+      <link>/publication/btg-neurips22/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/btg-neurips22/</guid>
+      <description></description>
     </item>
     
   </channel>
