@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -128,7 +128,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    /*max-width: 38rem;*/
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -247,4 +247,49 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Purple */
+.theme-base-0g .sidebar {
+  background-color: #2b0e54;
+}
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
+  color: #2b0e54;
+}
+
+.small-text {
+  font-size: smaller; /* or use a specific size like 12px */
+}
+
+.big-text {
+  font-size: larger; /* or use a specific size like 12px */
+}
+
+.social-icons {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+  display: flex; /* Use flexbox for horizontal layout */
+  margin-bottom: 20px; /* Adjust this value for desired space */
+  justify-content: center;
+}
+
+.social-icons li {
+  margin-right: 15px; /* Space between icons */
+}
+
+.social-icons li:last-child {
+  margin-right: 0; /* Remove margin from the last item */
+}
+
+.social-icons a {
+  text-decoration: none; /* Remove underline */
+  color: #ffffff; /* Set color */
+}
+
+@media (min-width: 48em) {
+  .social-icons {
+    justify-content: left;
+  }
 }
