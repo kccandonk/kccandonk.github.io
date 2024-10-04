@@ -23,7 +23,7 @@ email: kate.candon@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kccandonk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kccandon
 github_username:  kccandonk
 
