@@ -28,7 +28,7 @@ twitter_username: kccandon
 github_username:  kccandonk
 
 # Build settings
-theme: jekyll-theme-hyde
+#theme: jekyll-theme-hyde
 plugins:
   - jekyll-feed
 
