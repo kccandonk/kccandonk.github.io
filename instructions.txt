@@ -1,0 +1,8 @@
+Create directory for website:
+$ jekyll new academic-website
+
+Install dependenceies:
+$ bundle install
+
+Test locally:
+$ bundle exec jekyll serve
