@@ -7,6 +7,11 @@ permalink: /publications/
 The most up-to-date list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=tjFEDR4AAAAJ&hl=en&oi=ao).
 
 ## Peer-Reviewed Full Conference Papers
+**_Artificial Intelligence for Future Presidents: Teaching AI Literacy to Everyone._**<br>
+**Kate Candon**, Nicholas C. Georgiou, Rebecca Ramnauth, Jessie Cheung, E. Chandra Fincke, and Brian Scassellati. <br> 
+For *Symposium on Educational Advances in Artificial Intelligence (EAAI)* in *Proceedings of the AAAI Conference on Artificial Intelligence*, Feb 2025.<br>
+[[PDF]](/assets/papers/CandonEAAI25.pdf)
+
 **_Nonverbal Human Signals Can Help Autonomous Agents Infer Human Preferences for Their Behavior._**<br>
 **Kate Candon**, Jesse Chen, Yoony Kim, Zoe Hsu, Nathan Tsoi, and Marynel Vázquez. <br> 
 In *Proceedings of the 22nd International Conference on Autonomous Agents and Multi-Agnent Systems (AAMAS)*, May 2023.<br>
@@ -51,6 +56,21 @@ In *Companion of the 2024 ACM/IEEE International Conference on Human- Robot Inte
 
 
 ## Peer-Reviewed Workshop Papers ##
+**_Towards Better Robot Learners: Leveraging Implicit and Explicit Human Feedback Together in Human Robot Interactions._** <br>
+**Kate Candon**. <br>
+In *Proceedings of the AAAI Conference on Artificial Intelligence*, vol. 39, no. 28, February 2025. <span style="color:green;font-weight: bold; font-style: italic;"> AAAI Doctoral Consortium.</span> <br>
+[[PDF]](/assets/papers/CandonAAAI25.pdf)
+
+**_Leveraging Implicit Human Feedback to Beter Learn from Explicit Human Feedback in Human-Robot Interactions._** <br>
+**Kate Candon**. <br>
+In *Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24)*, March 2022. <span style="color:green;font-weight: bold; font-style: italic;"> HRI Pioneers Workshop.</span> <br>
+[[PDF]](/assets/papers/CandonHRI24P.pdf)
+
+**_Towards Creating Better Interactive Agents: Leveraging Both Implicit and Explicit Human Feedback._** <br>
+**Kate Candon**. <br>
+In *Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems*, March 2022. <span style="color:green;font-weight: bold; font-style: italic;"> AAMAS Doctoral Consortium.</span> <br>
+[[PDF]](/assets/papers/CandonAAMAS23DC.pdf)
+
 **_Context^2: On the importance of the context of context in human robot interaction._** <br>
 **Kate Candon** and Marynel Vázquez. <br>
 In *HRI workshop on Context-Awareness in Human-Robot Interaction*, March 2022. <br>
