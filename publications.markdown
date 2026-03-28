@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-The most up-to-date list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=tjFEDR4AAAAJ&hl=en&oi=ao).
+The most up-to-date list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=tjFEDR4AAAAJ&hl=en&oi=ao){:target="_blank"}.
 
 ## Journal Publications
 **_The Social Context of Human-Robot Interactions._** <br>

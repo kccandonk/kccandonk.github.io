@@ -6,10 +6,10 @@ layout: home
 ---
 
 I am a final year Ph.D. candidate in Computer Science at Yale University. 
-I work with [Professor Marynel Vázquez](https://marynel.net) in the [Interactive Machines Group](https://interactive-machines.com/) and [Professor Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) in the [Social Robotics Lab](https://scazlab.yale.edu/).
+I work with [Professor Marynel Vázquez](https://marynel.net){:target="_blank"} in the [Interactive Machines Group](https://interactive-machines.com/){:target="_blank"} and [Professor Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/){:target="_blank"} in the [Social Robotics Lab](https://scazlab.yale.edu/){:target="_blank"}.
 
 
-**I am excited to share that I will be joining [Skidmore College](https://www.skidmore.edu) as an Assistant Professor of Computer Science in Fall 2026!**
+**I am excited to share that I will be joining [Skidmore College](https://www.skidmore.edu){:target="_blank"} as an Assistant Professor of Computer Science in Fall 2026!**
 
 ---
 ### Research Interests
