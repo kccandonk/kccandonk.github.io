@@ -8,8 +8,7 @@ The most up-to-date list of publications can be found on my [Google Scholar](htt
 
 ## Journal Publications
 **_The Social Context of Human-Robot Interactions._** <br>
-Sydney Thompson*, **Kate Candon***, and Marynel Vázquez. In *Annual Review of Control, Robotics, and Autonomous Systems*, 9. Accepted for publication July 2025.
-* denotes equal contribution
+Sydney Thompson\*, **Kate Candon**\*, and Marynel Vázquez. In *Annual Review of Control, Robotics, and Autonomous Systems*, 9. Accepted for publication July 2025.\* denotes equal contribution
 [[PDF]](/assets/papers/ThompsonAnnualReviews25.pdf)
 
 ## Peer-Reviewed Full Conference Papers
