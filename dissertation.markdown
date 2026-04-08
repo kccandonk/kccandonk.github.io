@@ -5,7 +5,7 @@ permalink: /dissertation/
 ---
 
 
-Link to latest draft of dissertation: [[Draft as of April 7, 2026]](/assets/KCC_Dissertation_v20260407.pdf)
+**Link to latest draft of dissertation**: [Draft as of April 7, 2026](/assets/KCC_Dissertation_v20260407.pdf)
 
 **Dissertation Title**: Robot Learning During Collaborations with Non-Expert Robot Users
 
